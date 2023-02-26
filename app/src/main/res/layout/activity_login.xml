@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#B90E0A"
+    android:background="@drawable/gradient"
     tools:context=".LoginActivity">
 
     <RelativeLayout
@@ -16,6 +16,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:orientation="vertical">
+
             <ImageView
                 android:layout_width="150dp"
                 android:layout_height="150dp"
@@ -88,9 +89,9 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="32dp"
                 android:background="@drawable/next_button"
-                android:textColor="@color/white"
                 android:text="Login"
-                android:textAllCaps="true" />
+                android:textAllCaps="true"
+                android:textColor="@color/white" />
 
             <androidx.appcompat.widget.AppCompatButton
                 android:id="@+id/btn_register"
@@ -99,8 +100,8 @@
                 android:layout_marginTop="8dp"
                 android:background="@drawable/skip_button"
                 android:text="Register"
-                android:textColor="#541E1B"
-                android:textAllCaps="true" />
+                android:textAllCaps="true"
+                android:textColor="#541E1B" />
 
         </LinearLayout>
 

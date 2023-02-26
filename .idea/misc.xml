@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/dicoding/FinanceApplication/app/src/main/res/drawable/gradient.xml" value="0.1035" />
         <entry key="..\:/dicoding/FinanceApplication/app/src/main/res/drawable/next_button.xml" value="0.1035" />
         <entry key="..\:/dicoding/FinanceApplication/app/src/main/res/drawable/skip_button.xml" value="0.1035" />
         <entry key="..\:/dicoding/FinanceApplication/app/src/main/res/layout/activity_auto_saving.xml" value="0.18425925925925926" />

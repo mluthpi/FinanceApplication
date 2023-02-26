@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="16dp"
+    android:background="@drawable/gradient"
     tools:context=".MainActivity">
 
     <TextView
@@ -15,6 +16,7 @@
         android:textStyle="bold"
         android:textSize="25dp"
         android:textColor="@color/black"/>
+
 
 
 

@@ -31,5 +31,15 @@ class LoginActivity : AppCompatActivity() {
     }
 
 
-
+//        binding.btnLogin.setOnClickListener {
+//            if (binding.edtEmail.text.toString().equals("admin") && binding.edtPassword.text.toString().equals("admin")) {
+//                Intent(this@LoginActivity, MainActivity::class.java).also {
+//                    startActivity(it)
+//                }
+//                Toast.makeText(this,"LOGIN SUCCESS", Toast.LENGTH_SHORT).show()
+//            } else  {
+//                Toast.makeText(this,"LOGIN FAILED", Toast.LENGTH_SHORT).show()
+//            }
+//        }
+//    }
     }
