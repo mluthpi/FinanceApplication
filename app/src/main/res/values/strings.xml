@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FinanceApplication</string>
+    <string name="automatic_saving">Set your savings goal and let empower figure out how to get you them</string>
+    <string name="skip">skip</string>
+    <string name="budgeting">Customize your budget categories and stay on top your spending</string>
+    <string name="increase_profit">Increase Profit</string>
+    <string name="increase_profits">Managing your money can be the easiest thing you do all day</string>
+</resources>
